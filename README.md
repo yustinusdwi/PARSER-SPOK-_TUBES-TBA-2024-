@@ -7,3 +7,8 @@ S – P – K <br>
 S – P – O <br>
 S – P <br>
 The types of subjects, predicates, objects, and adverbials recognized are determined by their respective groups, each consisting of 5 words.
+<br>
+Member of Group : <br>
+ Yustinus Dwi Adyra <br>
+ Rishad Tjandiaman <br>
+ Rafi Ainulfitrah T 
